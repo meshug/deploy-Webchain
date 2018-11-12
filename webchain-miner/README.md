@@ -16,4 +16,4 @@ docker-compose up
 
 ## Verify your Balance:
 
-Open a browser to https://pool.webchain.network/#/account/ + <YOUR-WALLET-ADDRESS>
+Open a browser to https://pool.webchain.network/#/account/ + \<YOUR-WALLET-ADDRESS\>
